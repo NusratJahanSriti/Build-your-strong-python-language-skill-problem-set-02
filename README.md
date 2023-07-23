@@ -49,6 +49,6 @@ Discover a collection of 25 intriguing competitive programming challenges in Pyt
 
 24.Write a function to find the GCD (Greatest Common Divisor) of two numbers.
 
-25Write a function that takes a string as input and counts the frequency of each character.
+25.Write a function that takes a string as input and counts the frequency of each character.
 
 These problems cover a range of topics and difficulty levels related to functions in Python.
